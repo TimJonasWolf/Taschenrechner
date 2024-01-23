@@ -1,0 +1,14 @@
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.exe
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.deps.json
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.runtimeconfig.json
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.dll
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.pdb
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.AssemblyInfoInputs.cache
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.AssemblyInfo.cs
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.csproj.CoreCompileInputs.cache
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.dll
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\obj\Debug\net8.0\refint\Taschenrechner.dll
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.pdb
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.genruntimeconfig.cache
+D:\VS2022 Applications\Taschenrechner\Taschenrechner\obj\Debug\net8.0\ref\Taschenrechner.dll
